@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Canvas <code>demo</code>.
+          Canvas Star
         </p>
         
       </header>
